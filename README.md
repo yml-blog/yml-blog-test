@@ -1,7 +1,7 @@
 # YML
 
-![GitHub followers](https://img.shields.io/github/followers/arcadia_navida?style=social)
-![GitHub stars](https://img.shields.io/github/stars/arcadia_navida?style=social)
+![GitHub followers](https://img.shields.io/github/followers/yml-blog?style=social)
+![GitHub stars](https://img.shields.io/github/stars/yml-blog?style=social)
 
 Welcome to my GitHub page! I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems.
 
