@@ -52,5 +52,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force: true  # Force push to avoid conflicts
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
