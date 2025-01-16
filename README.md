@@ -1,104 +1,110 @@
-# YML
-
-![GitHub followers](https://img.shields.io/github/followers/yml-blog?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yml-blog?style=social)
-
-Welcome to my GitHub page! I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems.
-
-## About Me
-
-I am experienced in machine learning and artificial intelligence. My interests include:
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-orange)
-![Artificial Intelligence](https://img.shields.io/badge/AI-Development-green)
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-### Project 1
-
-- **Technologies Used**: ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-- **Repository**: [Project1](https://github.com/YOUR_USERNAME/project1)
-- ![Status](https://img.shields.io/badge/status-active-brightgreen)
-
-### Project 2
-
-- **Technologies Used**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-- **Repository**: [Project2](https://github.com/YOUR_USERNAME/project2)
-- ![Status](https://img.shields.io/badge/status-maintenance-orange)
-
-### Project 3
-
-- **Technologies Used**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-- **Repository**: [Project3](https://github.com/YOUR_USERNAME/project3)
-- ![Status](https://img.shields.io/badge/status-completed-success)
-
-## Blog
-
-I also write about various topics on my blog. Here are some sections you might find interesting:
-
-- [AI/ML Blog](https://YOUR_BLOG_URL/ai-ml)
-- [Product Blog](https://YOUR_BLOG_URL/product)
-- [Personal Thoughts](https://YOUR_BLOG_URL/personal)
-
-## Contact
-
-Feel free to reach out to me via email at [yangmingliml@yahoo.com](mailto:yangmingliml@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yangmingli).
-
-## GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
 <div align="center">
+  <!-- 动态标题 -->
   <h1>👋 Welcome to YML's Coding Universe 🚀</h1>
   
-  <!-- 动态欢迎标语 -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;Welcome%20to%20my%20GitHub!;I%20am%20a%20Data%20Scientist;And%20ML%20Engineer&center=true&size=27&width=550">
-  </h3>
+  <!-- 动态打字效果 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+a+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 
-  <!-- 统计卡片 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yml-blog&theme=onedark&row=1&column=6&no-frame=true&no-bg=true" />
+  <!-- 社交徽章 -->
+  <p>
+    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/followers/yml-blog?style=social" alt="GitHub followers"/></a>
+    <a href="https://github.com/yml-blog"><img src="https://img.shields.io/github/stars/yml-blog?style=social" alt="GitHub stars"/></a>
+    <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+
+  <!-- 3D贡献图 -->
+  <img src="https://raw.githubusercontent.com/yml-blog/yml-blog/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contrib" width="100%"/>
 </div>
 
-### 🌈 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg">
-</picture>
+## 🎯 About Me
 
-### 🌊 Ocean Animation
-<img alt="ocean animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/ocean.gif">
-
-### 🎯 My Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Development-00ADD8?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
-
-### 📊 GitHub Stats
+I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems. My expertise includes:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yml-blog&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=radical"/>
+  <!-- 技能树 -->
+  <h3>🛠️ Technologies & Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-★★★★☆-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-★★★★★-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  </p>
 </div>
 
-### 🎵 Spotify Playing
+## 🚀 Featured Projects
 
-[![Spotify](https://novatorem-yml-blog.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+### Project 1: ML Pipeline
+- **Technologies**: ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+- **Repository**: [Project1](https://github.com/YOUR_USERNAME/project1)
+- **Status**: ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-### 📫 Connect with Me
+### Project 2: Docker Implementation
+- **Technologies**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+- **Repository**: [Project2](https://github.com/YOUR_USERNAME/project2)
+- **Status**: ![Status](https://img.shields.io/badge/status-maintenance-orange)
+
+### Project 3: Web Application
+- **Technologies**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+- **Repository**: [Project3](https://github.com/YOUR_USERNAME/project3)
+- **Status**: ![Status](https://img.shields.io/badge/status-completed-success)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- 贪吃蛇动画 -->
+  <h3>🌈 Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+  <!-- 海洋动画 -->
+  <h3>🌊 Ocean Animation</h3>
+  <img alt="ocean animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/ocean.gif"/>
+
+  <!-- 音乐播放器 -->
+  <h3>🎵 Vibing to</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
+  
+  <!-- 编码时间统计 -->
+  <h3>📊 This Week I Spent My Time On</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yml-blog&theme=radical&hide_border=true" alt="Wakatime Stats"/>
+</div>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Robust ML Pipelines](https://your-blog-url/post1)
+- [The Future of AI in 2024](https://your-blog-url/post2)
+- [Best Practices for Data Science](https://your-blog-url/post3)
+<!-- BLOG-POST-LIST:END -->
+
+## 🎯 Fun Facts
+
+```text
+🌅 I'm a morning person, coding at dawn
+🎮 Love playing strategy games
+🎨 Enjoy creating data visualizations
+🌱 Currently learning: Advanced MLOps
+🎯 2024 Goals: Contribute more to open source
+```
+
+<div align="center">
+  <!-- 访客计数器 -->
+  <h3>👀 Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/yml-blog/count.svg" alt="Visitor Count"/>
+</div>
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
