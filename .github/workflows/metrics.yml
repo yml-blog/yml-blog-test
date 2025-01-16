@@ -2,8 +2,11 @@ name: Metrics and Snake Animation
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: '0 */24 * * *' # Runs every 24 hours
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main
 
 jobs:
   github-metrics:
@@ -52,6 +55,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          force: true  # Force push to avoid conflicts
         env:
           GITHUB_TOKEN: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
