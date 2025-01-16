@@ -39,7 +39,11 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
