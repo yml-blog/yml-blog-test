@@ -13,97 +13,105 @@
     <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 
-  <!-- 3D贡献图 -->
-  <img src="https://raw.githubusercontent.com/yml-blog/yml-blog/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contrib" width="100%"/>
+  <!-- 新增：动态天气 -->
+  <img src="https://weather-icon.journeyad.repl.co/@beijing?v=1" align="center">
 </div>
 
 ## 🎯 About Me
 
-I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems. My expertise includes:
+I'm YML, a data scientist/machine learning engineer passionate about leveraging technology to solve real-world problems. 
 
+<!-- 新增：技能动画展示 -->
 <div align="center">
-  <!-- 技能树 -->
   <h3>🛠️ Technologies & Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-★★★★★-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-★★★★☆-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-★★★★☆-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit_Learn-★★★★★-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,kubernetes,aws" />
   </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,vscode,vim,linux,bash,mongodb" />
+  </p>
+</div>
+
+<!-- 新增：GitHub 活动统计 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yml-blog&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🚀 Featured Projects
 
-### Project 1: ML Pipeline
-- **Technologies**: ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-- **Repository**: [Project1](https://github.com/YOUR_USERNAME/project1)
-- **Status**: ![Status](https://img.shields.io/badge/status-active-brightgreen)
+### 🤖 AI/ML Projects
+- [**Deep Learning Framework**](https://github.com/yml-blog/project1) - A customizable deep learning framework
+- [**NLP Toolkit**](https://github.com/yml-blog/project2) - Natural language processing tools
+- [**Computer Vision Apps**](https://github.com/yml-blog/project3) - Real-time object detection
 
-### Project 2: Docker Implementation
-- **Technologies**: ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-- **Repository**: [Project2](https://github.com/YOUR_USERNAME/project2)
-- **Status**: ![Status](https://img.shields.io/badge/status-maintenance-orange)
+### 🛠️ Development Tools
+- [**DevOps Pipeline**](https://github.com/yml-blog/project4) - Automated CI/CD pipeline
+- [**Code Generator**](https://github.com/yml-blog/project5) - AI-powered code generation
 
-### Project 3: Web Application
-- **Technologies**: ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-- **Repository**: [Project3](https://github.com/YOUR_USERNAME/project3)
-- **Status**: ![Status](https://img.shields.io/badge/status-completed-success)
-
-## 📊 GitHub Analytics
-
+<!-- 新增：项目统计 -->
 <div align="center">
-  <!-- 贪吃蛇动画 -->
-  <h3>🌈 Contribution Snake</h3>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yml-blog&repo=project1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yml-blog&repo=project2&theme=radical" />
+</div>
+
+## 📊 GitHub Activity
+
+<!-- 保留贪吃蛇动画，但使用正确的路径 -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/github-contribution-grid-snake.svg"/>
   </picture>
-
-  <!-- 海洋动画 -->
-  <h3>🌊 Ocean Animation</h3>
-  <img alt="ocean animation" src="https://raw.githubusercontent.com/yml-blog/yml-blog/output/ocean.gif"/>
-
-  <!-- 音乐播放器 -->
-  <h3>🎵 Vibing to</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
-  
-  <!-- 编码时间统计 -->
-  <h3>📊 This Week I Spent My Time On</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yml-blog&theme=radical&hide_border=true" alt="Wakatime Stats"/>
 </div>
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Robust ML Pipelines](https://your-blog-url/post1)
-- [The Future of AI in 2024](https://your-blog-url/post2)
-- [Best Practices for Data Science](https://your-blog-url/post3)
-<!-- BLOG-POST-LIST:END -->
+<!-- 新增：代码统计 -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yml-blog&layout=compact&theme=radical&hide=html"/>
+</div>
 
 ## 🎯 Fun Facts
 
+<div align="center">
+
 ```text
-🌅 I'm a morning person, coding at dawn
-🎮 Love playing strategy games
-🎨 Enjoy creating data visualizations
-🌱 Currently learning: Advanced MLOps
-🎯 2024 Goals: Contribute more to open source
+🌅 Morning Person: Coding at Dawn
+🎮 Gaming: Strategy & Puzzle Games
+🎨 Hobby: Data Visualization Art
+🌱 Learning: Advanced MLOps & AI
+🎯 2024 Goals: Open Source Contribution
 ```
 
-<div align="center">
-  <!-- 访客计数器 -->
-  <h3>👀 Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/yml-blog/count.svg" alt="Visitor Count"/>
+<!-- 新增：有趣的徽章 -->
+<p>
+  <img src="https://img.shields.io/badge/Mood-Coding%20Mode-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coffee%20Level-Full-brown?style=flat-square&logo=buy-me-a-coffee"/>
+  <img src="https://img.shields.io/badge/Bug%20Status-Hunting-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Life-Coding-blue?style=flat-square"/>
+</p>
+
+<!-- 新增：动态引用 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<!-- 访客计数器 -->
+<h3>👀 Visitor Count</h3>
+<img src="https://profile-counter.glitch.me/yml-blog/count.svg" alt="Visitor Count"/>
 </div>
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- 新增：更多社交媒体链接 -->
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/your-dev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
+
+<!-- 新增：页脚 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ## 📜 License
 
