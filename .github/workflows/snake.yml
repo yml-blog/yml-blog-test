@@ -18,17 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: yml-blog
+          github_user_name: arcadia_navida
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push GitHub contribution grid snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
