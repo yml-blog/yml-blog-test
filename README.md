@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态标题 -->
-  <h1>👋 Welcome to YML's Coding Universe 🚀</h1>
+  <h1>👋 Welcome to YangMing's Coding Universe 🚀</h1>
   
   <!-- 动态打字效果 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+a+Data+Scientist+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
@@ -44,12 +44,6 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
 ### 🛠️ Development Tools
 - [**DevOps Pipeline**](https://github.com/yml-blog/project4) - Automated CI/CD pipeline
 - [**Code Generator**](https://github.com/yml-blog/project5) - AI-powered code generation
-
-<!-- 新增：项目统计 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yml-blog&repo=project1&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yml-blog&repo=project2&theme=radical" />
-</div>
 
 ## 📊 GitHub Activity
 
