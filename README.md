@@ -12,9 +12,6 @@
     <a href="mailto:yangmingliml@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/yangmingli"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
-
-  <!-- 新增：动态天气 -->
-  <img src="https://weather-icon.journeyad.repl.co/@beijing?v=1" align="center">
 </div>
 
 ## 🎯 About Me
