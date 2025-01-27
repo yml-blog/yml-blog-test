@@ -29,11 +29,6 @@ I'm YML, a data scientist/machine learning engineer passionate about leveraging 
   </p>
 </div>
 
-<!-- 新增：GitHub 活动统计 -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yml-blog&theme=radical" alt="GitHub Streak"/>
-</div>
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI/ML Projects
